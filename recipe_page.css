@@ -6,13 +6,13 @@
 
 @font-face {
     font-family: "outfit";
-    src: url(FONTS/outfit/Outfit-VariableFont_wght.ttf) format("truetype");
+    src: url(fonts/outfit/Outfit-VariableFont_wght.ttf) format("truetype");
     font-weight: 400, 600, 700;
 }
 
 @font-face {
     font-family: "young-serif";
-    src: url(FONTS/young-serif/YoungSerif-Regular.ttf) format("truetype");
+    src: url(fonts/young-serif/YoungSerif-Regular.ttf) format("truetype");
     font-weight: 400;
 }
 
